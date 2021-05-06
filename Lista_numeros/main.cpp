@@ -1,3 +1,8 @@
+/*Código orientado a objetos em C++ utilizado para praticar o uso da biblioteca STL. 
+Recebe uma lista de números inteiros. 
+Retorna a lista como ela foi dada, retorna o maior e o menor número da lista e retorna a lista em ordem crescente.
+*/
+
 #include <iostream>
 #include <vector>
 #include <string>
