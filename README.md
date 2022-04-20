@@ -1,2 +1,5 @@
-# DisciplinaPOO
-Tarefas feitas durante a disciplina de Programação Orientada a Objetos em linguagem C++ em 2021 no Instituto Federal de Santa Catarina para o curso de Tecnologia em Eletrônica Industrial.
+# Disciplina de Programação Orientada a Objetos
+
+Neste repositório estão listadas as tarefas e seus desenvolvimentos da disciplina POO em linguagem C++ do curso CST Eletrônica Industrial do IFSC Câmpus Florianópolis, assim como outros arquivos auxiliares ao estudo.
+
+A disciplina foi cursada durante o semestre de 2021.1.
